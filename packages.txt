@@ -1,2 +1,2 @@
 python3.10
-python3.10-dev
+python3-dev
